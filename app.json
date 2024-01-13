@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello_world",
-    "slug": "hello_world",
+    "name": "xii-rpl-5---541211176---vicky-fareli---portofolio",
+    "slug": "snack-8b53ce19-125f-4598-a30f-2c37e3a3558c",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vickyfareli.snack8b53ce19125f4598a30f2c37e3a3558c"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6cb9fc61-8c34-446c-bdbc-ebefbfa7ab2c"
+      }
     }
   }
 }
